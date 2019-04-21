@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555879211 source:c:\users\bbart\desktop\cpp\ping pong - the last strife\ping pong - the last strife\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cstring>
+	<cctype>
+	<windows.h>
+
